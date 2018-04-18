@@ -1,0 +1,24 @@
+@charset "utf-8";
+{
+  padding:0;
+  margin:0;
+}
+a:hover{
+  text-decoration: none;
+  color:#FFCA00;
+}
+.row{
+  width:100%;
+}
+.row p{
+  font-size:16px;
+}
+.dangqian{
+  margin-top:2%;
+}
+.table-bordered{
+  width:80%;
+  margin-left:10%;
+  margin-top:4%;
+}
+

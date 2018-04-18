@@ -1,0 +1,27 @@
+@charset "utf-8";
+*{
+  margin:0;
+  padding:0;
+}
+a:hover{
+  text-decoration: none;
+  color:#FFCA00;
+}
+.dangqian{
+  margin-top:2%;
+}
+.row{
+  width: 100%;
+}
+.container select{
+  margin-left:20%;
+}
+.container .row{
+  margin-top:5%;
+}
+.container .radio{
+  margin-top:-1.5%;
+  margin-left:25%;
+}
+/* CSS Document */
+

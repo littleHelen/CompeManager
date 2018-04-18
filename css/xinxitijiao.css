@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+  width:100%;
+  margin-top:30px;
+}
+.one .row{
+  width:88%;
+  margin:0 auto;
+ margin-left: 12%;
+  margin-top:20px;
+}
+.row fieldset{
+  width：10%!important;
+}
